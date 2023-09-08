@@ -1,6 +1,6 @@
  Vinddata Oria.
- Longitude:  Latitude: 
+ Longitude: 19.02 Latitude: 59.98
 *******************************************************************
 Datum:tid,Hastighet (m/S),Byar (m/s),Vindriktning (grader),OK?
-2023-09-08 20:02:40,,,,False
-2023-09-08 20:14:58,,,,False
+2023-09-08 20:15:55,4.5,5.1,180,False
+2023-09-08 20:18:29,4.5,5.1,180,False
